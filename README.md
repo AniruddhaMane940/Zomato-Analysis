@@ -5,5 +5,6 @@
 This is a small analysis based project on zomato dataset for which I have combined and used 2 datasets such as zomato data and country-code data.
 After performing detailed analysis found some useful insights about data.
 
-Please open **_Zomato Analysis.ipynb_** for more detailed explaination.
+Please open **_Zomato Analysis.ipynb_** for more detailed explanation.
 
+[Click Here To View File](https://github.com/AniruddhaMane940/Zomato-Analysis/blob/main/Zomato%20Analysis.ipynb)
